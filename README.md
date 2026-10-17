@@ -1,4 +1,4 @@
-# Evaluación 1 - Inteligencia Artificial
+# Evaluaciones - Inteligencia Artificial
 
 ## Integrantes
 
